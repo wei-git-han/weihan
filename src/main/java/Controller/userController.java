@@ -15,6 +15,7 @@ public class userController {
 	@RequestMapping("/insert")
 	private int insert(String name,int age) {
 		System.out.println("ttt");
+		System.out.println("ddddddddddd");
 		return userService.insert(name, age);
 	}
 }
