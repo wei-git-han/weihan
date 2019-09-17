@@ -1,5 +1,6 @@
 eclipse.preferences.version=1
 encoding//src/main/java=UTF-8
+encoding//src/main/java/com/hanwei/springboot/Test.java=GBK
 encoding//src/main/java/com/hanwei/springboot/TestSpringboot.java=GBK
 encoding//src/main/resources=UTF-8
 encoding//src/main/resources/templates/ftlIndex.ftl=UTF-8
