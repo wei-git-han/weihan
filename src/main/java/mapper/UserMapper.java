@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Qualifier;
 import com.hanwei.entity.User;
 
 public interface UserMapper {
-	//查询语句
+	//查询语句111
 	@Select("select * from users where username=#{name}")
 	User findByName(@Param("name") String name);
 	
